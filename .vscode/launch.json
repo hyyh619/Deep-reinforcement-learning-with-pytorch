@@ -30,7 +30,7 @@
             ],
             "args": [
                 "--mode",
-                "test"
+                "train"
             ]
         },
         {

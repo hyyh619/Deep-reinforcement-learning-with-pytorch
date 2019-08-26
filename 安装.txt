@@ -1,9 +1,0 @@
-1. 安装swig.exe
-   解压swigwin-4.0.1.zip到tools目录。在Windows系统环境变量Path中设置swig的目录
-
-2. 安装gym和gym[atari]
-   pip install gym
-   pip install gym[atari]
-
-3. 安装BipedalWalker的支持，这是gym的一个运行环境
-   pip3 install box2d box2d-kengz
